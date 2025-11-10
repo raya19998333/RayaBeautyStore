@@ -4,6 +4,8 @@
 
 # 🌿 Raya Beauty Store
 </div>
+
+
 **Raya Beauty Store** is a **C# Console Application** designed to manage and display products for the plant-based cosmetics brand **RAYA Beauty**.  
 Built with **Entity Framework Core** and **SQL Server**, the app allows adding, searching, and categorizing products in a clean and professional interface.
 
@@ -113,18 +115,7 @@ For questions, feedback, or collaboration opportunities:
 📸 [Instagram: @RayaBeauty](https://www.instagram.com/RayaBeauty)
 
 ---
-
+<div align=center >
 © 2025 **RAYA Beauty** | All Rights Reserved | MIT License
 
-```
-
----
-
-✅ **Highlights of this version:**
-- Professional formatting and clear hierarchy  
-- Consistent emoji-based visual sections  
-- Tables for technologies, brand identity, and sample products  
-- Optimized for GitHub rendering and readability  
-
-Would you like me to make a **shorter “lite version”** (for portfolio use, around half the length)?
-```
+</div>
