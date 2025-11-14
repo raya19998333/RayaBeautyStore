@@ -112,7 +112,7 @@ Our products are crafted for those who value **clean beauty**, **natural ingredi
 For questions, feedback, or collaboration opportunities:
 📧 **[raya.info@gmail.com](mailto:rayaalamri90@gmail.com)**
 🌐 [GitHub Profile](https://github.com/raya19998333)
-📸 [Instagram: @RayaBeauty](https://www.instagram.com/RayaBeauty)
+📸 [Instagram: @RayaBeauty](https://www.instagram.com/raya.beautys)
 
 ---
 <div align=center >
